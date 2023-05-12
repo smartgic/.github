@@ -1,6 +1,6 @@
 name: Run License Tests
+
 on:
-  push:
   workflow_call:
 
 jobs:
